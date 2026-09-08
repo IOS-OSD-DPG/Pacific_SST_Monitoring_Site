@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://schckngs.github.io/Pacific_SST_Monitoring_Site/index.html</loc>
-    <lastmod>2026-08-26T19:05:47.330Z</lastmod>
+    <lastmod>2026-09-08T15:49:43.802Z</lastmod>
   </url>
   <url>
     <loc>https://schckngs.github.io/Pacific_SST_Monitoring_Site/about.html</loc>
     <lastmod>2026-08-25T18:41:42.042Z</lastmod>
+  </url>
+  <url>
+    <loc>https://schckngs.github.io/Pacific_SST_Monitoring_Site/buoys.html</loc>
+    <lastmod>2026-09-08T15:53:22.426Z</lastmod>
   </url>
 </urlset>
